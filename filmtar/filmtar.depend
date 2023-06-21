@@ -1,0 +1,308 @@
+# depslib dependency file v1.0
+1619034679 source:c:\users\user\asztal\kesz\adatbazis.cpp
+	"adatbazis.h"
+	<cstring>
+	"memtrace.h"
+
+1619085248 c:\users\user\asztal\kesz\adatbazis.h
+	"film.h"
+	"memtrace.h"
+
+1619034679 c:\users\user\asztal\kesz\film.h
+	"string5.h"
+	<iostream>
+	"memtrace.h"
+
+1619034679 c:\users\user\asztal\kesz\string5.h
+	<iostream>
+
+1618746129 c:\users\user\asztal\kesz\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1619085449 source:c:\users\user\asztal\kesz\inout.cpp
+	"inout.h"
+	"gtest_lite.h"
+	"memtrace.h"
+
+1619034679 c:\users\user\asztal\kesz\inout.h
+	"string5.h"
+	"film.h"
+	"csaladi_film.h"
+	"doku_film.h"
+	"adatbazis.h"
+	<cstring>
+	<iostream>
+	<fstream>
+	<sstream>
+	"memtrace.h"
+
+1619034679 c:\users\user\asztal\kesz\csaladi_film.h
+	"film.h"
+	"memtrace.h"
+
+1619034679 c:\users\user\asztal\kesz\doku_film.h
+	"film.h"
+	"memtrace.h"
+
+1618746129 c:\users\user\asztal\kesz\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1619085292 source:c:\users\user\asztal\kesz\main.cpp
+	<iostream>
+	<locale>
+	<string>
+	<windows.h>
+	"adatbazis.h"
+	"film.h"
+	"csaladi_film.h"
+	"doku_film.h"
+	"string5.h"
+	"inout.h"
+	"memtrace.h"
+
+1618746129 source:c:\users\user\asztal\kesz\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1619034679 source:c:\users\user\asztal\kesz\string5.cpp
+	<iostream>
+	<cstring>
+	"memtrace.h"
+	"string5.h"
+
+1620237695 source:c:\users\user\iskola\!bme\!szemeszter2\programozás\házi feladat\program\filmtar\adatbazis.cpp
+	"adatbazis.h"
+	<cstring>
+	"memtrace.h"
+
+1621253929 c:\users\user\iskola\!bme\!szemeszter2\programozás\házi feladat\program\filmtar\adatbazis.h
+	"film.h"
+	"doku_film.h"
+	"csaladi_film.h"
+	"inout.h"
+	<cstring>
+	<iostream>
+	<fstream>
+	<sstream>
+	"memtrace.h"
+
+1621253962 c:\users\user\iskola\!bme\!szemeszter2\programozás\házi feladat\program\filmtar\film.h
+	"string5.h"
+	<iostream>
+	"memtrace.h"
+
+1620081940 c:\users\user\iskola\!bme\!szemeszter2\programozás\házi feladat\program\filmtar\string5.h
+	<iostream>
+
+1618746129 c:\users\user\iskola\!bme\!szemeszter2\programozás\házi feladat\program\filmtar\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1620722795 source:c:\users\user\iskola\!bme\!szemeszter2\programozás\házi feladat\program\filmtar\inout.cpp
+	"inout.h"
+	"gtest_lite.h"
+	"memtrace.h"
+
+1620236049 c:\users\user\iskola\!bme\!szemeszter2\programozás\házi feladat\program\filmtar\inout.h
+	"string5.h"
+	<iostream>
+	"film.h"
+	"csaladi_film.h"
+	"doku_film.h"
+	"adatbazis.h"
+	"memtrace.h"
+
+1621253648 c:\users\user\iskola\!bme\!szemeszter2\programozás\házi feladat\program\filmtar\csaladi_film.h
+	"film.h"
+	"memtrace.h"
+
+1621253683 c:\users\user\iskola\!bme\!szemeszter2\programozás\házi feladat\program\filmtar\doku_film.h
+	"film.h"
+	"memtrace.h"
+
+1618746129 c:\users\user\iskola\!bme\!szemeszter2\programozás\házi feladat\program\filmtar\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1621253843 source:c:\users\user\iskola\!bme\!szemeszter2\programozás\házi feladat\program\filmtar\main.cpp
+	<iostream>
+	<locale>
+	<string>
+	<windows.h>
+	"adatbazis.h"
+	"film.h"
+	"csaladi_film.h"
+	"doku_film.h"
+	"string5.h"
+	"inout.h"
+	"memtrace.h"
+
+1618746129 source:c:\users\user\iskola\!bme\!szemeszter2\programozás\házi feladat\program\filmtar\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1619034679 source:c:\users\user\iskola\!bme\!szemeszter2\programozás\házi feladat\program\filmtar\string5.cpp
+	<iostream>
+	<cstring>
+	"memtrace.h"
+	"string5.h"
+
+1620234096 source:c:\users\user\iskola\bme\szemeszter2\programozás\házi feladat\program\filmtar\adatbazis.cpp
+	"adatbazis.h"
+	<cstring>
+	"memtrace.h"
+
+1621250330 c:\users\user\iskola\bme\szemeszter2\programozás\házi feladat\program\filmtar\adatbazis.h
+	"film.h"
+	"doku_film.h"
+	"csaladi_film.h"
+	"inout.h"
+	<cstring>
+	<iostream>
+	<fstream>
+	<sstream>
+	"memtrace.h"
+
+1621250364 c:\users\user\iskola\bme\szemeszter2\programozás\házi feladat\program\filmtar\film.h
+	"string5.h"
+	<iostream>
+	"memtrace.h"
+
+1620078342 c:\users\user\iskola\bme\szemeszter2\programozás\házi feladat\program\filmtar\string5.h
+	<iostream>
+
+1618742530 c:\users\user\iskola\bme\szemeszter2\programozás\házi feladat\program\filmtar\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1621250084 c:\users\user\iskola\bme\szemeszter2\programozás\házi feladat\program\filmtar\doku_film.h
+	"film.h"
+	"memtrace.h"
+
+1621250050 c:\users\user\iskola\bme\szemeszter2\programozás\házi feladat\program\filmtar\csaladi_film.h
+	"film.h"
+	"memtrace.h"
+
+1620232450 c:\users\user\iskola\bme\szemeszter2\programozás\házi feladat\program\filmtar\inout.h
+	"string5.h"
+	<iostream>
+	"film.h"
+	"csaladi_film.h"
+	"doku_film.h"
+	"adatbazis.h"
+	"memtrace.h"
+
+1620719196 source:c:\users\user\iskola\bme\szemeszter2\programozás\házi feladat\program\filmtar\inout.cpp
+	"inout.h"
+	"gtest_lite.h"
+	"memtrace.h"
+
+1618742530 c:\users\user\iskola\bme\szemeszter2\programozás\házi feladat\program\filmtar\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1618742530 source:c:\users\user\iskola\bme\szemeszter2\programozás\házi feladat\program\filmtar\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1619031080 source:c:\users\user\iskola\bme\szemeszter2\programozás\házi feladat\program\filmtar\string5.cpp
+	<iostream>
+	<cstring>
+	"memtrace.h"
+	"string5.h"
+
